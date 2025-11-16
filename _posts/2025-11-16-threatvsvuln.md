@@ -5,7 +5,6 @@ categories: [Cybersecurity, Fundamentals]
 tags: [threat, vulnerability, risk, security-basics, ceh]
 ---
 
-# Threat vs Vulnerability — A Complete Breakdown
 
 Understanding the difference between **Threats** and **Vulnerabilities** is one of the first and most important steps in cybersecurity.  
 These two terms are the foundation of **risk assessment**, **penetration testing**, **SOC analysis**, and almost every security framework (NIST, ISO 27001, MITRE ATT&CK).
