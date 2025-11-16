@@ -179,8 +179,7 @@ Imagine your home:
 - Regular patching  
 - Configuration hardening  
 - Secure coding  
-- Vulnerability scanning (Nessus, OpenVAS)  
-- Penetration testing  
+- Vulnerability scanning (Nessus, OpenVAS)   
 
 ---
 
