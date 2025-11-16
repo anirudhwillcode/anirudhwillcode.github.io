@@ -19,7 +19,7 @@ A **Threat** is any event, actor, or condition that *might* exploit a vulnerabil
 
 In other words, a threat is the **potential source of danger**.
 
-### ✔ Types of Threats
+### Types of Threats
 Threats can be categorized as:
 
 ### **1. Human Threats (Intentional)**
@@ -49,14 +49,14 @@ These involve physical dangers:
 - Earthquakes
 - Power outage
 
-### ✔ Common Cyber Threat Examples:
+### Common Cyber Threat Examples:
 - Phishing attacks  
 - Ransomware  
 - Zero-day exploits  
 - Distributed Denial-of-Service (DDoS)  
 - MITM (Man-in-the-Middle) attacks  
 
-#### **🔍 Key Point:**  
+#### **Key Point:**  
 A threat exists even if you have *no* vulnerabilities.  
 A hacker “wanting” to attack you is still a threat — even if they can’t find a way in.
 
@@ -68,7 +68,7 @@ A **Vulnerability** is a weakness, flaw, or gap in your system that can be explo
 
 It is basically the **opening** that allows the attack to happen.
 
-### ✔ Types of Vulnerabilities
+### Types of Vulnerabilities
 
 ### **1. Software Vulnerabilities**
 - Buffer overflow  
@@ -99,7 +99,7 @@ It is basically the **opening** that allows the attack to happen.
 - Lack of training  
 - Poor security hygiene  
 
-#### **🔍 Key Point:**  
+#### **Key Point:**  
 A vulnerability is only dangerous **when a threat can exploit it**.
 
 ---
@@ -122,16 +122,16 @@ They must come together.
 ### Scenario:
 You have a website running on outdated WordPress.
 
-### ✔ Threat:
+### Threat:
 Hackers scanning the internet for outdated WordPress installations.
 
-### ✔ Vulnerability:
+### Vulnerability:
 Your WordPress version is outdated and contains a known RCE (Remote Code Execution) flaw.
 
-### ✔ Attack:
+### Attack:
 A hacker uses the exploit to gain access to your website.
 
-### ✔ Risk:
+### Risk:
 - Website defacement  
 - Data leakage  
 - Server compromise  
@@ -152,7 +152,7 @@ Imagine your home:
 
 ---
 
-## ⚔️ Threat vs Vulnerability — Detailed Comparison Table
+## Threat vs Vulnerability — Detailed Comparison Table
 
 | Feature | Threat | Vulnerability |
 |--------|--------|----------------|
@@ -166,16 +166,16 @@ Imagine your home:
 
 ---
 
-## 🛡️ How to Reduce Threats & Vulnerabilities
+## How to Reduce Threats & Vulnerabilities
 
-### ✔ Reducing Threats:
+### Reducing Threats:
 - Firewall rules  
 - Threat intelligence feeds  
 - Blocking malicious IPs  
 - SOC monitoring  
 - Anti-malware systems  
 
-### ✔ Reducing Vulnerabilities:
+### Reducing Vulnerabilities:
 - Regular patching  
 - Configuration hardening  
 - Secure coding  
