@@ -14,22 +14,23 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: theShell # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: theShell is a blog about cybersecurity and programming # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+ theShell is a space where I write about cybersecurity, hacking, programming,
+  Linux, and tech experiments.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
 url: ""
 
 github:
-  username: github_username # change to your GitHub username
+  username: anirudhwillcode # change to your GitHub username
 
 twitter:
-  username: twitter_username # change to your Twitter username
+  username: itsanirudhr # change to your Twitter username
 
 social:
   # Change to your full name.
@@ -98,7 +99,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://media.licdn.com/dms/image/v2/D5603AQH07gMclPthgA/profile-displayphoto-shrink_200_200/B56ZWyrZHYHoAY-/0/1742459475245?e=1764806400&v=beta&t=tDIN5XjNWfdzK39ajNZhRXMN7Kpt4EXwk7BMb7agZe8
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
