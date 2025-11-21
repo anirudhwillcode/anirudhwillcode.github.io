@@ -1,0 +1,22 @@
+{
+  "name": "theShell - Cybersecurity Portfolio",
+  "short_name": "theShell",
+  "description": "Personal cybersecurity portfolio with CTF notes, HackTheBox writeups, and security learning journey",
+  "icons": [
+    {
+      "src": "/assets/favicon.ico",
+      "sizes": "32x32",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "/assets/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/"
+}
