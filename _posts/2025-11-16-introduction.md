@@ -3,6 +3,7 @@ title: "Hello, I'm Anirudh — My First Blog!"
 date: 2025-11-16 21:00:00 +0530
 categories: [Personal, Introduction]
 tags: [about, introduction, journey]
+description: "Introduction to theShell - my cybersecurity learning journey, CEH certification, and passion for ethical hacking"
 ---
 
 

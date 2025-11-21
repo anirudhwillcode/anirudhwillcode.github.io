@@ -1,0 +1,99 @@
+<!-- Security & Meta Headers -->
+<!-- SPDX-License-Identifier: MIT -->
+
+<!-- Prevent browser caching of sensitive pages -->
+<meta http-equiv="Pragma" content="no-cache" />
+<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+
+<!-- Secure browser compatibility -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+<!-- Content Security Policy - Prevent XSS and clickjacking -->
+<meta http-equiv="Content-Security-Policy" content="default-src 'self' https:; script-src 'self' 'unsafe-inline' https://cdn.jsdelivr.net; style-src 'self' 'unsafe-inline' https://cdn.jsdelivr.net; img-src 'self' https: data:; font-src 'self' https://cdn.jsdelivr.net; connect-src 'self' https:; frame-ancestors 'none';" />
+
+<!-- Referrer Policy - Don't leak referrer info -->
+<meta name="referrer" content="strict-origin-when-cross-origin" />
+
+<!-- X-Frame-Options - Prevent clickjacking -->
+<meta http-equiv="X-Frame-Options" content="SAMEORIGIN" />
+
+<!-- Prevent MIME type sniffing -->
+<meta http-equiv="X-Content-Type-Options" content="nosniff" />
+
+<!-- XSS Protection -->
+<meta http-equiv="X-XSS-Protection" content="1; mode=block" />
+
+<!-- Permissions Policy - Restrict browser features -->
+<meta http-equiv="Permissions-Policy" content="geolocation=(), microphone=(), camera=(), payment=()" />
+
+<!-- Open Graph Tags for Social Sharing & Legitimacy -->
+<meta property="og:site_name" content="theShell - Cybersecurity Portfolio" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://anirudhwillcode.github.io" />
+<meta property="og:title" content="theShell - Cybersecurity Portfolio & HTB Writeups" />
+<meta property="og:description" content="Personal cybersecurity portfolio with CTF notes, HackTheBox writeups, and security learning journey" />
+<meta property="og:image" content="https://anirudhwillcode.github.io/assets/img/site-og-image.jpg" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
+
+<!-- Twitter Card Tags -->
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@itsanirudhr" />
+<meta name="twitter:creator" content="@itsanirudhr" />
+<meta name="twitter:title" content="theShell - Cybersecurity Portfolio & HTB Writeups" />
+<meta name="twitter:description" content="Personal cybersecurity portfolio with CTF notes, HackTheBox writeups, and security learning journey" />
+<meta name="twitter:image" content="https://anirudhwillcode.github.io/assets/img/site-og-image.jpg" />
+
+<!-- Canonical URL - Prevent duplicate content issues -->
+<link rel="canonical" href="https://anirudhwillcode.github.io" />
+
+<!-- Schema.org Structured Data - Legitimacy verification -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Anirudh",
+  "url": "https://anirudhwillcode.github.io",
+  "email": "anirudhwillcode@gmail.com",
+  "sameAs": [
+    "https://twitter.com/itsanirudhr",
+    "https://github.com/anirudhwillcode"
+  ],
+  "jobTitle": "Cybersecurity Student & Ethical Hacker",
+  "worksFor": {
+    "@type": "Organization",
+    "name": "theShell"
+  }
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "theShell",
+  "url": "https://anirudhwillcode.github.io",
+  "description": "Personal cybersecurity portfolio with CTF notes, HackTheBox writeups, and security learning journey",
+  "publisher": {
+    "@type": "Person",
+    "name": "Anirudh"
+  }
+}
+</script>
+
+<!-- Favicon & Apple Icons -->
+<link rel="icon" type="image/x-icon" href="/assets/favicon.ico" />
+<link rel="apple-touch-icon" href="/assets/apple-touch-icon.png" />
+
+<!-- WebManifest for PWA -->
+<link rel="manifest" href="/assets/site.webmanifest" />
+
+<!-- Alternate links for RSS/Feeds -->
+<link rel="alternate" type="application/atom+xml" title="theShell Feed" href="https://anirudhwillcode.github.io/feed.xml" />
+
+<!-- Preload critical resources -->
+<link rel="preload" as="style" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" />
+
+<!-- DNS prefetch for external resources -->
+<link rel="dns-prefetch" href="https://cdn.jsdelivr.net" />
+<link rel="dns-prefetch" href="https://fonts.googleapis.com" />

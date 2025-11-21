@@ -3,6 +3,7 @@ title: "Threat vs Vulnerability — A Complete Breakdown for Beginners"
 date: 2025-11-16 12:00:00 +0530
 categories: [Cybersecurity, Fundamentals]
 tags: [threat, vulnerability, risk, security-basics, ceh]
+description: "Complete guide explaining the difference between threats and vulnerabilities in cybersecurity, with real-world examples and comparison tables"
 ---
 
 
